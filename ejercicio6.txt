@@ -1,0 +1,3 @@
+2. El precio sería un atributo de "Medicamento" en lugar de estar vinculado con "vende".
+
+3. Habría que vincular los atributos de la relación "receta" con una entidad nueva y vincular esta entidad con la relación "receta".

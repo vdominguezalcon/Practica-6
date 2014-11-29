@@ -1,0 +1,2 @@
+Sí se puede.
+Si se junta "Avión" y "Modelo" en una única entidad, y se hace que la entidad "Técnico" tenga de alguna manera una relacion de "experto en" con esta nueva entidad se puede conseguir. 

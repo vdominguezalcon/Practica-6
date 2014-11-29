@@ -1,0 +1,2 @@
+Sí que hay una restricción que no se puede indicar. 
+No se puede expresar en el diagrama que un Álbum tenga sólo un número estricto de canciones (en el diagrama sólo se expresa que tiene que tener una o más canciones).
